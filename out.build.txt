@@ -1,0 +1,6 @@
+﻿Build started at 11:34 PM...
+1>------ Build started: Project: Lab4, Configuration: Debug x64 ------
+1>  Source.cpp
+1>  Lab4.vcxproj -> C:\Users\Rodri\source\repos\Lab4\x64\Debug\Lab4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:34 PM and took 03.351 seconds ==========
